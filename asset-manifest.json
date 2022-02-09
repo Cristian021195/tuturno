@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.731d86ab.css",
+    "main.js": "/static/js/main.14f3840b.js",
+    "static/js/787.5ee0b726.chunk.js": "/static/js/787.5ee0b726.chunk.js",
+    "static/media/qr-index.jpg": "/static/media/qr-index.614e08b5be4d8017790c.jpg",
+    "static/media/hospital-stop-bg.svg": "/static/media/hospital-stop-bg.56f4730f2aefb8f18b6bad7f5adf83c6.svg",
+    "index.html": "/index.html",
+    "main.731d86ab.css.map": "/static/css/main.731d86ab.css.map",
+    "main.14f3840b.js.map": "/static/js/main.14f3840b.js.map",
+    "787.5ee0b726.chunk.js.map": "/static/js/787.5ee0b726.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731d86ab.css",
+    "static/js/main.14f3840b.js"
+  ]
+}
